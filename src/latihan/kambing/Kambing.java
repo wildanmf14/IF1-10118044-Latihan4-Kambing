@@ -1,12 +1,12 @@
 package latihan.kambing;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : Menambah jumlah kambing
+ */
 public class Kambing {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : Menambah jumlah kambing
-     */
+	
 	public void tambahKambing() {
         // Deklarasi variabel lokal
         int jumlahKambing  = 0;
